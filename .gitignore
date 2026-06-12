@@ -1,0 +1,7 @@
+build/
+*.o
+*.elf
+*.bin
+# Screenshots produced by tools/screenshot.py at the repo root.
+/fb.ppm
+/fb.png
